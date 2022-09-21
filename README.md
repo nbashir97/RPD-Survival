@@ -8,7 +8,7 @@ Nasir Zeeshan Bashir, Eduardo Bernabe
 [Published paper link to be inserted here]
 
 ### Background
-This R and Stata code was used to analyse NHANESIII data, combined with the 2019 linked mortality file, in order to assess the effect of removable partial dentures on survival in partially dentate adults. The findings were published in the Journal of Dentistry.
+This R and Stata code was used to analyse NHANES III, combined with the 2019 linked mortality data, in order to assess the effect of removable partial dentures on survival in partially dentate adults. The findings were published in the Journal of Dentistry.
 
 ### Abstract (to be inserted here)
 
