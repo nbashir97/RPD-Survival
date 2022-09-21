@@ -15,5 +15,5 @@ This R and Stata code was used to analyse NHANESIII data, combined with the 2019
 ### Analysis
 The Stata do-files were run in the order numbered. The R files were run after the corresponding number do-file, note that the R files contain the script necessary for the main and sensitivity analyses.  
 
-**R v4.1.0**
-** Stata v17.0
+**R v4.1.0** \
+**Stata v17.0**
