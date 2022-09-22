@@ -80,7 +80,7 @@ deaths <- c("death", "death_cvd", "death_cancer")
 # Main analysis
 
 for (death in deaths) {
-  print(fitAFT(data = nhanes, event = death, analysis = "main"))
+  print(fitAFT(data = nhanes_sens, event = death, analysis = "main"))
 }
 
 # Sensitivity analysis
