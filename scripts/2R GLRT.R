@@ -130,6 +130,6 @@ runGLRT <- function(data, analysis) {
 runGLRT(data = nhanes, analysis = "main")
 
 # Sensitivity analysis GLRT
-runGLRT(data = nhanes, analysis = "sensitivity")
+runGLRT(data = nhanes_sens, analysis = "sensitivity")
 
 ##########################
