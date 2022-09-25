@@ -73,8 +73,6 @@ fitAFT <- function(data, event, analysis) {
 
 ###############################
 
-
-
 deaths <- c("death", "death_cvd", "death_cancer")
 
 # Main analysis
