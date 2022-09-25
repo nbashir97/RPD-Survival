@@ -2,10 +2,11 @@
 *** Partial Dentures & Mortality ***
 ************************************
 
-*** Do-File 4x: Survival Analysis ***
+*** Do-File 4: Survival Analysis ***
 
 ****************************************************************
 
+local path "insert/path/to/data"
 use "`path'/nhanes3_propensity.dta", clear
 
 ** Survival analysis **
