@@ -2,7 +2,7 @@
 Code for the paper on removable partial dentures and mortality.
 
 #### Authors
-Nasir Zeeshan Bashir, Eduardo Bernabe
+Nasir Zeeshan Bashir, Eduardo Bernabé
 
 #### Links
 [Published paper](https://www.sciencedirect.com/science/article/pii/S0300571222003591) (doi: 10.1016/j.jdent.2022.104304)
